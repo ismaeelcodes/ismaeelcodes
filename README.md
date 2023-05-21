@@ -1,5 +1,12 @@
+![night code](https://github.com/ismaeelcodes/ismaeelcodes/assets/99956213/d34d5f60-b842-44a0-8eb6-2d162813245e)
+
+<h1 align="center">👋 Hi, I'm Ismaeel!</h1>
+<br>
+
+
 # 💫 About Me:
 💻 I’m currently working on a Social Media Browser / Feeds App<br>👨‍🎓 I’m currently learning Next.JS, TypeScript, React Native, TailwindCSS, Redux and Multiple Back-end Technologies!<br>👨‍💻 All of my projects are available at https://github.com/ismaeelcodes?tab=repositories<br>💬 Ask me about Front-end Web Development<br>📫 How to reach me miwleaf@gmail.com<br>⚡ Fun fact I love to learn a lot!
+
 
 
 ## 🌐 Socials:
