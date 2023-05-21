@@ -1,7 +1,6 @@
-![night code](https://github.com/ismaeelcodes/ismaeelcodes/assets/99956213/d34d5f60-b842-44a0-8eb6-2d162813245e)
 
-<h1 align="center">👋 Hi, I'm Ismaeel!</h1>
-<br>
+![github-header-image (3)](https://github.com/ismaeelcodes/ismaeelcodes/assets/99956213/1b110ef9-dcdb-4392-adb1-49cff9c5dd9a)
+
 
 
 # 💫 About Me:
